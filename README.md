@@ -6,10 +6,9 @@
     <a href="http://tbpsjsu.org/"><img src="http://tbp.mccormick.northwestern.edu/img/TBP_logo.gif" alt="Tau Beta Pi Engineering Honor Society Logo"  width="250" height="250"/></a> 
 </div>
 
+<br>
 <p align="center">The official code base for the Tau Beta Pi Eta chapter. Contributions to this repository are made by current TBP officers and members. If you would like to become a contributor of this repository, please contact the moderator, <i>@timothyle</i>.</p>
 <br/><hr>  
- 
-**Copyright &copy; 2018 Tau Beta Pi SJSU**  
 
 ## Latest Features  
 ### Carousel
@@ -50,3 +49,5 @@ https://github.com/tau-beta-pi/TBP-SJSU-Org/wiki
 
 ### Visit Us!    
 [Tau Beta Pi SJSU](http://tbpsjsu.org/)   
+
+**Copyright &copy; 2018 Tau Beta Pi SJSU**  
