@@ -1,7 +1,15 @@
-# TBP Spring 17
-The official code for the Tau Beta Pi Eta chapter.
-As the current IT Lead for SJSU's TBP, I upload all of my custom renditions of the website's code here.  
-**Copyright &copy; 2017 Thinh Le**
+<h1 align="center">
+  <strong>Tau Beta Pi SJSU dot Org</strong>
+</h1>
+
+<div align="center">
+    <a href="http://tbpsjsu.org/"><img src="http://tbp.mccormick.northwestern.edu/img/TBP_logo.gif" alt="Tau Beta Pi Engineering Honor Society Logo"  width="250" height="250"/></a> 
+</div>
+
+<p align="center">The official code base for the Tau Beta Pi Eta chapter. Contributions to this repository are made by current TBP officers and members. If you would like to become a contributor of this repository, please contact the moderator, <i>@timothyle</i>.</p>
+<br/><hr>  
+ 
+**Copyright &copy; 2018 Tau Beta Pi SJSU**  
 
 ## Latest Features  
 ### Carousel
@@ -10,7 +18,7 @@ A slideshow of images that displays the events held at the Tau Beta Pi Californi
 <img src="https://github.com/TimothyLe/tbp-spring17/blob/master/images/carousel.JPG" alt="TBPSJSU Carousel">
 </h1>
 
-If you want to read about more features visit the [Features wiki](https://github.com/TimothyLe/tbp-spring17/wiki/Latest-Features)!  
+If you want to read about more features visit the [Features wiki](https://github.com/tau-beta-pi/TBP-SJSU-Org/wiki/Latest-Features)!  
 
 ## Goals for Spring 2017  
 * Bring back navbar!!! (_Responsive_)  
@@ -38,9 +46,7 @@ If you want to read about more features visit the [Features wiki](https://github
 ### TBP Wiki
 If you have any question or need more clarification on certain topics, please visit my wiki for the Tau Beta Pi California Eta website code that posesses more information on those topics:  
   
-https://github.com/TimothyLe/tbp-spring17/wiki
+https://github.com/tau-beta-pi/TBP-SJSU-Org/wiki
 
 ### Visit Us!    
 [Tau Beta Pi SJSU](http://tbpsjsu.org/)   
-
-![Tau Beta Pi Engineering Honor Society Logo](https://github.com/TimothyLe/tbp-spring17/blob/master/images/tbp.gif)
