@@ -1,3 +1,5 @@
+![TBP SJSU MIT License](https://img.shields.io/packagist/l/doctrine/orm.svg)  
+
 <h1 align="center">
   <strong>Tau Beta Pi SJSU dot Org</strong>
 </h1>
